@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Python compiled files
+*.pyc
+__pycache__/
+
+# macOS-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+venv/
+
+# Code specific files
+config.py
